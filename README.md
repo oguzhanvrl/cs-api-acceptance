@@ -1,4 +1,4 @@
-# cp-api-acceptance-test
+# cs-api-acceptance-test
 
 
 ### INSTALLATION
