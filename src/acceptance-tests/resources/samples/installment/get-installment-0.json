@@ -1,0 +1,113 @@
+{
+  "result": {
+    "data": {
+      "categoryName": null,
+      "products": [
+        {
+          "code": "gr1700",
+          "name": "Bir Tatlı Sevda Kek Buketi",
+          "price": {
+            "current": 49.99,
+            "total": 49.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": false,
+          "installmentText": "",
+          "productGroupId": 2,
+          "variantCode": "gr1700-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "kc287076",
+          "name": "Nice Mutlu Yıllar Çikolata Topları Truf Buketi",
+          "price": {
+            "current": 49.99,
+            "total": 49.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": false,
+          "installmentText": "",
+          "productGroupId": 2,
+          "variantCode": "kc287076-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "at3917",
+          "name": "Kişiye Özel Lisyantus Aranjmanı",
+          "price": {
+            "current": 69.99,
+            "total": 69.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": true,
+          "installmentText": "6 x 11,66 TL Taksit Seçeneği",
+          "productGroupId": 1,
+          "variantCode": "at3917-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "gr1855",
+          "name": "Doğum Günü Mesajlı Çilek Bahçesi Kek Buketi",
+          "price": {
+            "current": 49.99,
+            "total": 49.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": false,
+          "installmentText": "",
+          "productGroupId": 2,
+          "variantCode": "gr1855-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "gr1572",
+          "name": "Mini Tatlı Lezzet Truf ve Kek Buketi",
+          "price": {
+            "current": 49.99,
+            "total": 49.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": false,
+          "installmentText": "",
+          "productGroupId": 2,
+          "variantCode": "gr1572-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "gr1972",
+          "name": "Bitmeyen Lezzet Doğum Günü Kutlama Aranjmanı",
+          "price": {
+            "current": 54.99,
+            "total": 54.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": false,
+          "installmentText": "",
+          "productGroupId": 2,
+          "variantCode": "gr1972-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        }
+      ],
+      "filter": null,
+      "banners": null,
+      "branch": null,
+      "message": null,
+      "productCount": 310745,
+      "title": null,
+      "isAlternate": false,
+      "storeId": null
+    }
+  },
+  "error": {
+    "type": 0,
+    "title": null,
+    "message": null,
+    "returnUrl": null
+  }
+}

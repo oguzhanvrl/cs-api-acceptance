@@ -1,4 +1,4 @@
-# medium-api-acceptance-test (base)
+# cp-api-acceptance-test
 
 
 ### INSTALLATION

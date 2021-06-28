@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ApiAcceptance" configfailurepolicy="continue" time-out="500000" parallel="classes" thread-count="50"
+       verbose="10">
+    <listeners>
+    </listeners>
+    <test name="Regression - Acceptance Tests" preserve-order="false">
+        <parameter name="env" value="pipeline"/>
+        <classes>
+        </classes>
+    </test>
+</suite>

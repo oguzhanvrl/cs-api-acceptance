@@ -1,0 +1,128 @@
+{
+  "result": {
+    "data": {
+      "categoryName": null,
+      "products": [
+        {
+          "code": "at773",
+          "name": "2 Dal Beyaz Orkide Çiçeği",
+          "price": {
+            "current": 79.99,
+            "total": 79.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": true,
+          "installmentText": "6 x 13,33 TL Taksit Seçeneği",
+          "productGroupId": 1,
+          "variantCode": "at773-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "at1742",
+          "name": "Büyülü Aşk 25 Kırmızı Güller",
+          "price": {
+            "current": 69.99,
+            "total": 69.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": true,
+          "installmentText": "6 x 11,66 TL Taksit Seçeneği",
+          "productGroupId": 1,
+          "variantCode": "at1742-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "at727",
+          "name": "Akvaryum Vazoda 7 Kırmızı Gül",
+          "price": {
+            "current": 39.99,
+            "total": 39.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": true,
+          "installmentText": "6 x 6,66 TL Taksit Seçeneği",
+          "productGroupId": 1,
+          "variantCode": "at727-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "at192",
+          "name": "Phalaenopsis Orkide Çiçeği",
+          "price": {
+            "current": 69.99,
+            "total": 69.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": true,
+          "installmentText": "6 x 11,66 TL Taksit Seçeneği",
+          "productGroupId": 1,
+          "variantCode": "at192-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "at2360",
+          "name": "Asaletli Mor 2 Dal Orkide",
+          "price": {
+            "current": 99.99,
+            "total": 99.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": true,
+          "installmentText": "6 x 16,66 TL Taksit Seçeneği",
+          "productGroupId": 1,
+          "variantCode": "at2360-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "at3484",
+          "name": "4 Dal Beyaz Phalaenopsis Orkide",
+          "price": {
+            "current": 139,
+            "total": 139,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": true,
+          "installmentText": "6 x 23,16 TL Taksit Seçeneği",
+          "productGroupId": 1,
+          "variantCode": "at3484-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        },
+        {
+          "code": "at3917",
+          "name": "Kişiye Özel Lisyantus Aranjmanı",
+          "price": {
+            "current": 69.99,
+            "total": 69.99,
+            "currency": "TL",
+            "currencyCode": "TRY"
+          },
+          "installment": true,
+          "installmentText": "6 x 11,66 TL Taksit Seçeneği",
+          "productGroupId": 1,
+          "variantCode": "at3917-1",
+          "deliveryChargeMessage": "Ücretsiz Teslimat"
+        }
+      ],
+      "filter": null,
+      "banners": null,
+      "branch": null,
+      "message": null,
+      "productCount": 310745,
+      "title": null,
+      "isAlternate": false,
+      "storeId": null
+    }
+  },
+  "error": {
+    "type": 0,
+    "title": null,
+    "message": null,
+    "returnUrl": null
+  }
+}
