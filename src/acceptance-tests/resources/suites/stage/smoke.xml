@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ApiAcceptance" configfailurepolicy="continue" time-out="500000" parallel="classes" thread-count="50"
+       verbose="10">
+    <listeners>
+        <listener class-name="api.controller.test.TestListener"/>
+    </listeners>
+    <test name="Smoke-Acceptance Tests" preserve-order="false">
+        <parameter name="env" value="stage-smoke"/>
+        <classes>
+        </classes>
+    </test>
+</suite>
