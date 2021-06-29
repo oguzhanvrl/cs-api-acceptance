@@ -1,6 +1,6 @@
 package api.controller.service;
 
-import api.controller.utility.constants.Keywords;
+import api.controller.utility.constant.Keyword;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
@@ -23,7 +23,7 @@ public class GeneralApiController {
     protected ReadableResponse getRequest(String endPoint) {
         Response response = given()
                 .spec(spec)
-                .header(Keywords.CONTENT_TYPE, Keywords.APPLICATION_JSON)
+                .header(Keyword.CONTENT_TYPE, Keyword.APPLICATION_JSON)
                 .when()
                 .get(endPoint)
                 .then()

@@ -3,7 +3,7 @@ package api.controller.service.request;
 import api.controller.service.GeneralApiController;
 import api.controller.service.ReadableResponse;
 
-import static api.controller.utility.constants.Config.getApiUrl;
+import static api.controller.utility.constant.Config.getApiUrl;
 
 
 public class InstallmentApiController extends GeneralApiController {

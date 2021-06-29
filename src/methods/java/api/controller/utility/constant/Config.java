@@ -1,4 +1,4 @@
-package api.controller.utility.constants;
+package api.controller.utility.constant;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -8,7 +8,6 @@ import static api.controller.utility.LogUtils.logInfo;
 import static org.apache.commons.lang3.StringUtils.isBlank;
 
 public final class Config {
-
     public static final String ENVIRONMENT;
 
     static {
@@ -20,7 +19,7 @@ public final class Config {
             //read url from system.properties
             return System.getProperties().getProperty("api.url");
         } else {
-            //read url from resources/pipeline_config.properties
+            //read url from resources/stage_config.properties
             return loadProperties(ENVIRONMENT).getProperty("api.url");
         }
     }

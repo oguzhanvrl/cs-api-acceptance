@@ -1,12 +1,12 @@
 package api.controller.test;
 
-import api.controller.utility.constants.Keywords;
+import api.controller.utility.constant.Keyword;
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
 
 public class Retry implements IRetryAnalyzer {
 
-    private static final int maxTry = Keywords.RETRY_COUNT_FOR_FAILED_TEST;
+    private static final int maxTry = Keyword.RETRY_COUNT_FOR_FAILED_TEST;
     private int count;
 
     public Retry() {

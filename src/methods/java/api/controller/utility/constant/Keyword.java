@@ -1,8 +1,8 @@
-package api.controller.utility.constants;
+package api.controller.utility.constant;
 
 import java.time.ZoneId;
 
-public class Keywords {
+public class Keyword {
     public static final int RETRY_COUNT_FOR_FAILED_TEST = 2;
 
     public static final String CONTENT_TYPE = "Content-Type";
@@ -12,6 +12,6 @@ public class Keywords {
 
     public static final ZoneId ZONE_ID = ZoneId.of("Europe/Istanbul");
 
-    private Keywords() {
+    private Keyword() {
     }
 }

@@ -2,10 +2,12 @@
 <suite name="ApiAcceptance" configfailurepolicy="continue" time-out="500000" parallel="classes" thread-count="50"
        verbose="10">
     <listeners>
+        <listener class-name="api.controller.test.TestListener"/>
     </listeners>
-    <test name="Regression - Acceptance Tests" preserve-order="false">
+    <test name="Regression-Acceptance Tests" preserve-order="false">
         <parameter name="env" value="pipeline"/>
         <classes>
+            <class name="api.endpoint.InstallmentControllerTest"/>
         </classes>
     </test>
 </suite>

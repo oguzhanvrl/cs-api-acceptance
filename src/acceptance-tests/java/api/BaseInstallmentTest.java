@@ -9,10 +9,10 @@ import org.testng.annotations.BeforeSuite;
 
 import java.util.Date;
 
-import static api.controller.utility.constants.Config.getWireMockHost;
-import static api.controller.utility.constants.Config.getWireMockPort;
-import static api.controller.utility.constants.Keywords.ZONE_ID;
 import static api.controller.utility.LogUtils.logInfo;
+import static api.controller.utility.constant.Config.getWireMockHost;
+import static api.controller.utility.constant.Config.getWireMockPort;
+import static api.controller.utility.constant.Keyword.ZONE_ID;
 import static com.github.tomakehurst.wiremock.client.WireMock.removeAllMappings;
 import static com.github.tomakehurst.wiremock.client.WireMock.resetAllRequests;
 import static org.apache.http.HttpStatus.SC_OK;
